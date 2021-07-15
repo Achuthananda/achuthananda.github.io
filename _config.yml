@@ -6,7 +6,7 @@
 name: Achuthananda M P
 
 # Short bio or description (displayed in the header)
-description: History|Literature|Technology 
+description: History-Literature-Technology 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://achuthananda.github.io/aboutAchutha/assets/images/acmp_profile.jpeg
@@ -18,15 +18,15 @@ avatar: https://achuthananda.github.io/aboutAchutha/assets/images/acmp_profile.j
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: achuthadivine@gmail.com
+  facebook: 100010765030618
   flickr:
-  github: barryclark/jekyll-now
+  github: Achuthananda
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: GeekWrites
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
