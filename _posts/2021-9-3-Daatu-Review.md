@@ -11,7 +11,7 @@ This is one book i started reading approximately 3.5 years back and for some rea
 
 Coming to the crux of the book, This book mainly talks about the caste system in India and how deep rooted it is in our societies. This book was authored in 1972 and I must say that this book will remain timeless in Indian Societies. Bhyrappa is known for his extraordinary abilities of weaving a very nice fiction around facts of a system. Irrespective of caste we belong to this book will take you for an introspective ride about the systems we belong to.
 
-# Takeaways of the Book:
+# Takeaways of the Book
 - The book answers about the qualities of Brahman and busts myths about Upanayana Samskaram and Brahmopadesham.
 - Clear description about the oppression the lower communities have gone through from centuries. What has done that to the communities ? 
 - Revolutionary thought process of the lower caste commmunities to gain equality . But are they lookig for equality or to rule the upper strata of the society?
